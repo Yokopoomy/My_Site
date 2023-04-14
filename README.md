@@ -1,6 +1,6 @@
 # Hi there, I'm Evgeny [GitHub Profile](https://github.com/Yokopoomy) 
 ### I'm taking a Fulstack Javascript course in nontology
-![](https://ratingoff-schools.com/storage/organizations/December2021/logo-netologiya-large.jpg)
+![Logo](https://ratingoff-schools.com/storage/organizations/December2021/logo-netologiya-large.jpg)
 
 [Netology couse](https://netology.ru/programs/javascript-fullstack) 
 
